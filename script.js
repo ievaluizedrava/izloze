@@ -12,5 +12,5 @@ for (let i =0; i<uzvaretajuSkaits; i++ ){
     <tr>
     <td>${i+1}</td>
     <td>${uzvaretajs}</td>
-    </tr>`
+    </tr> `
 }
