@@ -1,0 +1,9 @@
+table, td, th{  
+    border: 2px solid black;
+    text-align: left;
+    width: 25%;
+    background-color:solid rgb(245, 121, 121);
+  }
+td{
+    width: 50%;
+}
